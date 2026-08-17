@@ -1,2 +1,2 @@
 # git---task-new
-<h1> Git training </h1>
+<h1> line from feature 1 </h1>
